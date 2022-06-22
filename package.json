@@ -1,0 +1,22 @@
+{
+  "name": "builds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanwei-cc/builds.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanwei-cc/builds/issues"
+  },
+  "homepage": "https://github.com/tanwei-cc/builds#readme",
+  "dependencies": {
+    "octokit": "^1.8.0"
+  }
+}
